@@ -1,7 +1,7 @@
 # WebChat
 Simple Chat
 # Requirements
-aioredis==1.3.1
+aioredis==1.3.1 <br />
 asgiref==3.4.1
 async-timeout==3.0.1
 attrs==21.2.0

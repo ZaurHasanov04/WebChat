@@ -1,5 +1,5 @@
 # WebChat
-Simple Chat
+Simple Chat for learning socket and django channels
 # Requirements
 aioredis==1.3.1 <br />
 asgiref==3.4.1 <br />
